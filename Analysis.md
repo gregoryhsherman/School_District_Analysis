@@ -15,5 +15,7 @@ There is no change to school spending since the students are still accounted for
 There is a signifcant change to overall passing students in the mid range school size: 91% to 85%
 There is a change to charter schools passing: 90% to 87%
 
+### Summary
+
 The changes to the grades for Thomas High School seem to be incomplete - we have eliminated the grades but kept the student count.
 I dont know what this could be applied to outside of determining the weight that a 9th grade class has on a school.
